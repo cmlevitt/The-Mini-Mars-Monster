@@ -1,5 +1,5 @@
 # The-Mini-Mars-Monster
-A final Project for UVM CMPE3815 Microcontroller Systems: 
+### A final Project for UVM CMPE3815 Microcontroller Systems by Callie Levitt
 
 
 ## Project Overview
@@ -28,14 +28,18 @@ The vehicle integrates LiDAR sensing, motor control, sensor data logging, and de
 - **Drive Motors**: DC motors for forward/backward motion and steering
 - **Motor Drivers**: 
 - **Servo Motors**: Controllers for arm joints and steering servo
-- **Microcontroller**: Arduino Uno 
-- **Robotic Arm**: Laser cut robotic arm with servo-controlled joints and gripper
-- **IR Receiver**  For manual remote control operation
+- **Microcontroller**: Arduino Uno x2
+- **Robotic Arm**: Laser cut robotic arm with servo-controlled joints and gripper - all design credit to https://www.instructables.com/MeArm-Build-a-Small-Hackable-Robot-Arm/
+- **IR Receiver**:  For manual remote control operation
+- **Lux Sensor**:
+- **SD Card Reader**:
+- **DHT11 Temperature / Humidity Sensor**:
+- **Custom Wheels**: 3D printed wheels designed for traversing difficult terrain
 
 
 ## Modes of Operation
 
-**Autonomous Mode**: The vehicle independently detects obstacles using LiDAR, and navigates to explore unknown terrain.
+**Autonomous Mode**: The vehicle independently detects obstacles using LiDAR, and navigates to explore unknown terrain while collecting environmental data.
 
 **RC Mode**: A remote operator controls the vehicle's steering, and robotic arm through an IR Receiver. 
 
