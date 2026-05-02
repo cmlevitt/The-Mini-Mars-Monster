@@ -26,7 +26,7 @@ The vehicle integrates LiDAR sensing, motor control, sensor data logging, and de
 
 - **LiDAR Sensor**: TOF scanning sensor for obstacle detection 
 - **Drive Motors**: DC motors for forward/backward motion and steering
-- **Motor Drivers**: 
+- **Motor Drivers**: From LAFVIN 2WD car kit
 - **Servo Motors**: Controllers for arm joints and steering servo
 - **Microcontroller**: Arduino Uno x2
 - **Robotic Arm**: Laser cut robotic arm with servo-controlled joints and gripper - all design credit to https://www.instructables.com/MeArm-Build-a-Small-Hackable-Robot-Arm/
