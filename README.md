@@ -6,7 +6,7 @@
 
 This project develops an autonomous ground vehicle equipped with a LiDAR sensor for real-time obstacle detection and navigation. The system features dual-mode operation, autonomous obstacle avoidance and manual remote control, along with a mounted robotic arm for environmental interaction.
 
-Inspired by Mars rovers' autonomy algorithms and the coolness of monster trucks, this vehicle platform combines sensing with practical manipulation capabilities for field exploration and autonomous data collection.
+I was inspired by planetary rovers and monster trucks to make a vehicle platform that combines sensing with practical manipulation capabilities for field exploration and autonomous data collection.
 
 ## Core Features
 
