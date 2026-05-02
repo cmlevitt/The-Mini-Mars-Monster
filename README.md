@@ -1,5 +1,6 @@
 # The-Mini-Mars-Monster
-### A final Project for UVM CMPE3815 Microcontroller Systems by Callie Levitt
+### Final Project for UVM CMPE3815 Microcontroller Systems 
+#### Callie Levitt
 
 
 ## Project Overview
